@@ -1,0 +1,4 @@
+*.tmp
+*.class
+file2.txt
+/temp/
